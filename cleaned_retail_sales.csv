@@ -1,0 +1,11 @@
+Order_ID,Order_Date,Product,Sales,Clean_Date,Issue
+O1001,2026-10-01,Notebook,100,2026-10-01,
+O1002,02/10/2026,Pen,50,2026-10-02,
+O1003,10-03-2026,Bag,700,2026-10-03,
+O1004,04 Oct 2026,Bottle,240,2026-10-04,
+O1005,31/02/2026,Pencil,60,,Invalid or unrecognized date
+O1006,,Notebook,150,,Missing date
+O1007,2026/10/07,Marker,100,2026-10-07,
+O1008,13/10/2026,Bag,700,2026-10-13,
+O1009,not available,Pen,30,,Invalid or unrecognized date
+O1010,2026-10-10,Bottle,360,2026-10-10,

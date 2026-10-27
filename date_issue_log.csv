@@ -1,0 +1,9 @@
+Order_ID,Original_Date,Issue,Action_Taken
+O1002,02/10/2026,Inconsistent date format,Parsed with %d/%m/%Y; standardized to YYYY-MM-DD
+O1003,10-03-2026,Inconsistent date format,Parsed with %m-%d-%Y; standardized to YYYY-MM-DD
+O1004,04 Oct 2026,Inconsistent date format,Parsed with %d %b %Y; standardized to YYYY-MM-DD
+O1005,31/02/2026,Invalid or unrecognized date,Not guessed; verify from source
+O1006,,Missing date,Left blank; verify from source
+O1007,2026/10/07,Inconsistent date format,Parsed with %Y/%m/%d; standardized to YYYY-MM-DD
+O1008,13/10/2026,Inconsistent date format,Parsed with %d/%m/%Y; standardized to YYYY-MM-DD
+O1009,not available,Invalid or unrecognized date,Not guessed; verify from source
